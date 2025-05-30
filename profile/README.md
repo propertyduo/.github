@@ -68,7 +68,7 @@ myhouse is an Australian real estate platform allowing homeowners to manage, mai
 🔌 Backend: Node.js, Express, GraphQL
 🗄️ Database: PostgreSQL, Redis
 ☁️ Infrastructure: AWS, Terraform, Docker
-🔄 CI/CD: GitHub Actions, Jenkins
+🔄 CI/CD: GitHub Actions
 📊 Analytics: ELK Stack, Prometheus
 ```
 
