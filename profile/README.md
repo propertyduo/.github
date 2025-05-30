@@ -72,6 +72,8 @@ myhouse is an Australian real estate platform allowing homeowners to manage, mai
 📊 Analytics: ELK Stack, Prometheus
 ```
 
+<!--
+
 ---
 
 ### 🌐 Join Our Revolution 🌐
@@ -82,6 +84,8 @@ Connect with us:
 - 📧 Email: [contact@propertyduo.com](#)
 - 🐦 Twitter: [@PropertyDuo](#)
 - 💼 LinkedIn: [PropertyDuo](#)
+
+-->
 
 ---
 
